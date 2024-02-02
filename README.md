@@ -1,2 +1,3 @@
 # ExpensesManager
 Track your expenses
+Thinking about it...
