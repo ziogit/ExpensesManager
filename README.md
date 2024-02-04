@@ -1,3 +1,2 @@
 # ExpensesManager
-Track your expenses
-Thinking about it...
+The Elephant in the Room
