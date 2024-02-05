@@ -1,3 +1,3 @@
 # ExpensesManager
-The Elephant in the Room\n
+The Elephant in the Room
 Going on walking
