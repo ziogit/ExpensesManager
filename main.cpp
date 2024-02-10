@@ -5,6 +5,7 @@ int main() {
     std::cout << "Don't know why I'm doing this";
     std::cout << "I need some more";
     std::cout << "At least 30 commits";
+    std::cout << "Slowly but walking";
 
     enum Color { red, white, green };
     Color r = red;
