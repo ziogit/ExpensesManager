@@ -17,5 +17,5 @@ int main() {
         case green : std::cout << "green\n";  break;
     }
     
-    return 1;
+    return 10;
 }
