@@ -7,7 +7,7 @@ int main() {
     std::cout << "At least 30 commits";
     std::cout << "Slowly but walking";
 
-    enum Color { red, white, green };
+    enum Color { red, white, green, orange };
     Color r = red;
  
     switch(r)
