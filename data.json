@@ -3,9 +3,9 @@
   "value": "File",
   "popup": {
     "menuitem": [
-      {"value": "New", "name": "n"},
-      {"value": "Open", "name": "o"},
-      {"value": "Close", "name": "c"}
+      {"value": "New", "name": "new"},
+      {"value": "Open", "name": "open"},
+      {"value": "Close", "name": "close"}
     ]
   }
 }}
