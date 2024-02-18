@@ -4,8 +4,7 @@
   "popup": {
     "menuitem": [
       {"value": "New", "name": "new"},
-      {"value": "Open", "name": "open"},
-      {"value": "Close", "name": "close"}
+      {"value": "Open", "name": "open"}
     ]
   }
 }}
