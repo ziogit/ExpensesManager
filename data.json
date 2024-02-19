@@ -3,8 +3,8 @@
   "value": "File",
   "popup": {
     "menuitem": [
-      {"value": "New", "name": "new"},
-      {"value": "Open", "name": "open"}
+      {"value": "New", "name": "1_new"},
+      {"value": "Open", "name": "2_open"}
     ]
   }
 }}
