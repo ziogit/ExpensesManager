@@ -12,6 +12,7 @@ int main() {
         case red  : std::cout << "red\n";   break;
         case white: std::cout << "white\n"; break;
         case green : std::cout << "green\n";  break;
+        default: std::cout << "none\n";
     }
     
     return 0;
