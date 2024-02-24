@@ -5,9 +5,9 @@
     "menuitem": [
       {"value": "New", "name": "1_new"},
       {"value": "Open", "name": "2_open"},
-      {"value": "Open", "name": "3_open"},
-      {"value": "Open", "name": "4_open"},
-      {"value": "Open", "name": "5_open"}
+      {"value": "Open", "name": "3_save"},
+      {"value": "Open", "name": "4_close"},
+      {"value": "Open", "name": "5_select"}
     ]
   }
 }}
