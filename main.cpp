@@ -15,5 +15,5 @@ int main() {
         default: std::cout << "none\n";
     }
     
-    return 1;
+    return 0;
 }
