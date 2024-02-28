@@ -7,6 +7,7 @@
       {"value": "Open", "name": "2_open"},
       {"value": "Save", "name": "3_save"},
       {"value": "Close", "name": "4_close"}
+      {"value": "Share", "name": "5_share"}
     ]
   }
 }}
