@@ -5,9 +5,9 @@ int main() {
     std::cout << "Don't know why I'm doing this.";
 
     enum Color { red, white, green };
-    Color r = red;
+    Color c = red;
  
-    switch(r)
+    switch (c)
     {
         case red  : std::cout << "red\n";   break;
         case white: std::cout << "white\n"; break;
