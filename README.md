@@ -1,3 +1,3 @@
 # ExpensesManager
 The Elephant in the Room made a lot of damages.
-Let's repair
+Let's repair everything
