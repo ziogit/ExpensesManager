@@ -2,7 +2,6 @@
 
 int main() {
     std::cout << "Let's start";
-    std::cout << "Don't know why I'm doing this.";
 
     enum Color { red, white, green };
     Color c = red;
