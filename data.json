@@ -2,7 +2,7 @@
   "id": "File",
   "value": "File",
   "popup": {
-    "menuitem": [
+    "menuitems": [
       {"value": "New", "name": "1_new"},
       {"value": "Open", "name": "2_open"},
       {"value": "Save", "name": "3_save"},
