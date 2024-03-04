@@ -9,6 +9,7 @@
       {"value": "Close", "name": "4_close"}
       {"value": "Share", "name": "5_share"}
       {"value": "Edit", "name": "6_edit"}
+      {"value": "Export", "name": "7_export"}
     ]
   }
 }}
