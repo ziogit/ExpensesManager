@@ -1,4 +1,2 @@
 # ExpensesManager
 The Elephant in the Room made a lot of damages.
-Let's repair everything.
-I want breakspace!
