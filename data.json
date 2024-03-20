@@ -1,6 +1,6 @@
 {"menu": {
-  "id": "Files2",
-  "value": "Files2",
+  "id": "File",
+  "value": "File",
   "popup": {
     "menuitems": [
       {"value": "New", "name": "1_new"},
