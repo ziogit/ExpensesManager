@@ -1,7 +1,7 @@
 {"menu": {
   "id": "Files",
   "value": "Files",
-  "sc": "f",
+  "sc": "_f",
   "popup": {
     "menuitems": [
       {"value": "New", "name": "1_new"},
