@@ -14,5 +14,5 @@ int main() {
         default: std::cout << "transparent\n";
     }
     
-    return 0;
+    return 10;
 }
