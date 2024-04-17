@@ -4,7 +4,7 @@ int main() {
     std::cout << "It's coming! (maybe)";
 
     enum Color { red, white, green };
-    Color c = nullptr;
+    Color c = 0;
  
     switch (c)
     {
@@ -14,5 +14,5 @@ int main() {
         default: std::cout << "transparent\n";
     }
     
-    return 10;
+    return 0;
 }
