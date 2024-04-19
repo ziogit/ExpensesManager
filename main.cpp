@@ -4,7 +4,7 @@ int main() {
     std::cout << "It's coming! (maybe)";
 
     enum Color { red, white, green };
-    Color c = 0;
+    Color c = 0xFFFFFF;
  
     switch (c)
     {
