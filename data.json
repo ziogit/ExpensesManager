@@ -7,8 +7,8 @@
       {"value": "New", "name": "1_new"},
       {"value": "Open", "name": "2_open"},
       {"value": "Save", "name": "3_save"},
-      //{"value": "Close", "name": "4_close"},
-      //{"value": "Quit", "name": "5_quit"}
+      {"value": "Close", "name": "4_close"},
+      {"value": "Quit", "name": "5_quit"}
     ]
   }
 }}
