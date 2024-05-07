@@ -14,7 +14,7 @@ int main() {
         case yellow : std::cout << "yellow\n";  break;
         case blue : std::cout << "blue\n";  break;
         case white : std::cout << "white\n";  break;
-        default: std::cout << "null\n";
+        default: std::cout << "nullptr\n";
     }
     
     return 0;
