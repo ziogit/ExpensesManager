@@ -9,8 +9,7 @@
       {"value": "Save", "name": "3_save"},
       {"value": "Close", "name": "4_close"},
       {"value": "Quit", "name": "5_quit"},
-      {"value": "Copy", "name": "6_copy"},
-      {"value": "Move", "name": "7_move"}
+      {"value": "Copy", "name": "6_copy"}
     ]
   }
 }}
