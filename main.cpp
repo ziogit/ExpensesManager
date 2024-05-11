@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "It's coming! (maybe)";
+    std::cout << "I'm tired and sick";
 
     enum Color { red, white, green };
     Color c = 0xFFFFFF;
