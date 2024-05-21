@@ -8,8 +8,7 @@
       {"value": "Open", "name": "2_open"},
       {"value": "Save", "name": "3_save"},
       {"value": "Close", "name": "4_close"},
-      {"value": "Quit", "name": "5_quit"},
-      {"value": "Hi", "name": "6_bye"}
+      {"value": "Quit", "name": "5_quit"}
     ]
   }
 }}
