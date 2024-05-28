@@ -8,12 +8,11 @@ int main() {
  
     switch (c)
     {
-        case red  : std::cout << "red\n";   break;
-        case white: std::cout << "white\n"; break;
-        case green : std::cout << "green\n";  break;
-        case yellow : std::cout << "yellow\n";  break;
-        case blue : std::cout << "blue\n";  break;
-        case white : std::cout << "white\n";  break;
+        case red  : std::cout << "Red\n";   break;
+        case white: std::cout << "White\n"; break;
+        case green : std::cout << "Green\n";  break;
+        case yellow : std::cout << "Yellow\n";  break;
+        case blue : std::cout << "Blue\n";  break;
         default: std::cout << "nullPtr\n";
     }
     
