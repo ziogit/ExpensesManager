@@ -5,8 +5,8 @@
   "popup": {
     "menuitems": [
       {"value": "New", "name": "1_New"},
-      {"value": "Open", "name": "2_open"},
-      {"value": "Save", "name": "3_save"},
+      {"value": "Open", "name": "2_Open"},
+      {"value": "Save", "name": "3_Save"},
       {"value": "Close", "name": "4_close"},
       {"value": "Quit", "name": "5_quit"},
       {"value": "Restore", "name": "6_rest"}
