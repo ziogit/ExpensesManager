@@ -1,3 +1,3 @@
 # ExpensesManager
 The Elephant in the room made a lot of damages.
-Many elephants! too many...
+Many elephants!
