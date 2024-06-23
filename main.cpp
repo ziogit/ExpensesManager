@@ -16,5 +16,5 @@ int main() {
         default: std::cout << "nullPtr\n";
     }
     
-    return 0;
+    return 1000;
 }
