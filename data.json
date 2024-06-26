@@ -10,7 +10,8 @@
       {"value": "Save", "name": "3_Save"},
       {"value": "Close", "name": "4_Close"},
       {"value": "Quit", "name": "5_Quit"},
-      {"value": "Shit", "name": "6_Shit"}
+      {"value": "Shit", "name": "6_Shit"},
+      {"value": "End", "name": "7_End"}
     ]
   }
 }}
