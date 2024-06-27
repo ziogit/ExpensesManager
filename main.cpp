@@ -13,7 +13,7 @@ int main() {
         case green : std::cout << "Green\n";  break;
         case yellow : std::cout << "Yellow\n";  break;
         case blue : std::cout << "Blue\n";  break;
-        default: std::cout << "nullPtr\n";
+        default: std::cout << "null\n";
     }
     
     return 1000;
