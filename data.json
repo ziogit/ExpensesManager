@@ -2,7 +2,7 @@
   "id": "Files",
   "value": "Files",
   "description": "Files",
-  "sc": "_F",
+  "sc": "_F10",
   "popup": {
     "menuitems": [
       {"value": "New", "name": "1_New"},
